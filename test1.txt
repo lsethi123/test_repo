@@ -9,7 +9,10 @@ C
 C
 C
 A
+A
 
+B
+this is new line inserted after viewing how to chek the diff...
 ywouwowewuA
 
 hello how are you
